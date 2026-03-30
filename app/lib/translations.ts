@@ -5,13 +5,13 @@ export const translations = {
     nav: {
       home: 'Accueil',
       about: 'À propos',
-      submit: 'Obtenir une offre',
+      submit: 'Obtenir une soumission',
     },
     hero: {
       title: 'Vendez votre véhicule',
       subtitle: 'sans stress.',
       description: 'Soumettez votre véhicule en 2 minutes et recevez une offre réelle en moins de 24h. Gratuit, sans engagement.',
-      cta: 'Obtenir une offre gratuite',
+      cta: 'Obtenir une soumission gratuite',
       learn: 'Comment ça marche',
     },
     steps: {
@@ -48,7 +48,7 @@ export const translations = {
       cta: 'Soumettre mon véhicule',
     },
     soumettre: {
-      title: 'Obtenir une offre',
+      title: 'Obtenir une soumission',
       steps: ['Votre véhicule', 'État du véhicule', 'Vos coordonnées'],
       marque: 'Marque',
       modele: 'Modèle',
@@ -69,13 +69,13 @@ export const translations = {
     nav: {
       home: 'Home',
       about: 'About',
-      submit: 'Get an offer',
+      submit: 'Get a quote',
     },
     hero: {
       title: 'Sell your vehicle',
       subtitle: 'stress-free.',
       description: 'Submit your vehicle in 2 minutes and receive a real offer in under 24h. Free, no commitment.',
-      cta: 'Get a free offer',
+      cta: 'Get a free quote',
       learn: 'How it works',
     },
     steps: {
@@ -112,7 +112,7 @@ export const translations = {
       cta: 'Submit my vehicle',
     },
     soumettre: {
-      title: 'Get an offer',
+      title: 'Get a quote',
       steps: ['Your vehicle', 'Vehicle condition', 'Your contact info'],
       marque: 'Make',
       modele: 'Model',
