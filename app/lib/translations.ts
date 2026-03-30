@@ -21,7 +21,29 @@ export const translations = {
       step2: { title: 'Recevez une offre', desc: 'Un acheteur qualifié vous contacte sous 24h avec une offre sérieuse.' },
       step3: { title: 'Vendez rapidement', desc: "Acceptez l'offre, on s'occupe du reste. Paiement rapide garanti." },
     },
-    why: {
+    why: { avis: {
+  title: 'Ce que disent nos clients',
+  items: [
+    {
+      nom: 'Jean-François L.',
+      ville: 'Québec',
+      note: '⭐⭐⭐⭐⭐',
+      texte: 'J\'ai soumis mon Toyota Camry un lundi soir et j\'avais déjà une offre le lendemain matin. Processus super simple et rapide!',
+    },
+    {
+      nom: 'Marie-Claude B.',
+      ville: 'Laval',
+      note: '⭐⭐⭐⭐⭐',
+      texte: 'Je pensais que ça prendrait des semaines. En 24h j\'avais 2 offres sérieuses. Je recommande à 100%.',
+    },
+    {
+      nom: 'Kevin T.',
+      ville: 'Longueuil',
+      note: '⭐⭐⭐⭐⭐',
+      texte: 'Service gratuit et sans pression. L\'acheteur était professionnel et le paiement a été rapide. Parfait!',
+    },
+  ],
+},
       title: 'Pourquoi AutoSoumission?',
       items: [
         { title: '100% Gratuit', desc: 'Aucun frais caché, aucune commission. Le service est entièrement gratuit.' },
@@ -85,7 +107,29 @@ export const translations = {
       step2: { title: 'Receive an offer', desc: 'A qualified buyer contacts you within 24h with a serious offer.' },
       step3: { title: 'Sell quickly', desc: 'Accept the offer, we handle the rest. Fast payment guaranteed.' },
     },
-    why: {
+    why: { avis: {
+  title: 'What our clients say',
+  items: [
+    {
+      nom: 'Jean-François L.',
+      ville: 'Quebec City',
+      note: '⭐⭐⭐⭐⭐',
+      texte: 'I submitted my Toyota Camry on a Monday evening and already had an offer the next morning. Super simple and fast process!',
+    },
+    {
+      nom: 'Marie-Claude B.',
+      ville: 'Laval',
+      note: '⭐⭐⭐⭐⭐',
+      texte: 'I thought it would take weeks. Within 24h I had 2 serious offers. 100% recommend.',
+    },
+    {
+      nom: 'Kevin T.',
+      ville: 'Longueuil',
+      note: '⭐⭐⭐⭐⭐',
+      texte: 'Free service with no pressure. The buyer was professional and payment was fast. Perfect!',
+    },
+  ],
+},
       title: 'Why AutoSoumission?',
       items: [
         { title: '100% Free', desc: 'No hidden fees, no commission. The service is completely free.' },
