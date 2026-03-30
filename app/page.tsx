@@ -1,3 +1,4 @@
+'use client'
 import { useLang } from './lib/LangContext'
 import Navbar from './components/navbar'
 import Link from 'next/link'
