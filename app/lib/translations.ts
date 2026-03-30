@@ -91,7 +91,7 @@ export const translations = {
         { title: '100% Free', desc: 'No hidden fees, no commission. The service is completely free.' },
         { title: 'Response in 24h', desc: 'No unnecessary wait. You receive a real offer quickly.' },
         { title: 'Verified buyers', desc: 'All our buyers are serious dealers and merchants.' },
-        { title: 'Montreal area', desc: 'We serve the greater Montreal area and surroundings.' },
+        { title: 'All of Quebec', desc: 'We serve the entire province of Quebec.' },
       ],
     },
     cta: {
@@ -107,7 +107,7 @@ export const translations = {
         { title: 'Free for sellers', desc: 'You never pay anything.' },
         { title: 'Fast response', desc: 'Every submission gets a response within 24 hours.' },
         { title: 'Full transparency', desc: 'No surprises, no hidden fees.' },
-        { title: 'Locally rooted', desc: 'We know the Montreal market better than anyone.' },
+        { title: 'All of Quebec', desc: 'We cover the entire province of Quebec, from Montreal to Quebec City.' },
       ],
       cta: 'Submit my vehicle',
     },

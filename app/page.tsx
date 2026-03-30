@@ -14,7 +14,7 @@ export default function Home() {
       <section className="max-w-6xl mx-auto px-6 pt-24 pb-20 text-center">
         <div className="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-500/20 text-orange-400 text-sm font-medium px-4 py-1.5 rounded-full mb-8">
           <span className="w-2 h-2 bg-orange-400 rounded-full animate-pulse" />
-          Montréal, QC — Service rapide
+          Québec, QC — Service rapide
         </div>
         <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6 leading-tight">
           {t.hero.title}{' '}
