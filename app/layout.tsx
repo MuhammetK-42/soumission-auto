@@ -4,7 +4,10 @@ import { LangProvider } from './lib/LangContext'
 
 export const metadata: Metadata = {
   title: 'AutoSoumission',
-  description: 'Vendez votre véhicule rapidement à Montréal',
+  description: 'Vendez votre véhicule rapidement au Québec',
+  icons: {
+    icon: '/logo.png',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

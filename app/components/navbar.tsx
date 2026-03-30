@@ -18,10 +18,9 @@ export default function Navbar() {
   return (
     <nav className="border-b border-gray-800 bg-gray-950/80 backdrop-blur-sm sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-        <Link href="/" className="font-extrabold text-xl tracking-tight">
-          <span className="text-white">Auto</span>
-          <span className="text-orange-500">Soumission</span>
-        </Link>
+<Link href="/" className="flex items-center">
+  <img src="/logo.png" alt="AutoSoumission" width={150} height={50} className="h-10 w-auto" />
+</Link>
 
         <div className="hidden md:flex items-center gap-8">
           {navLinks.map((link) => (
