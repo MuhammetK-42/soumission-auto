@@ -27,7 +27,7 @@ export const translations = {
         { title: '100% Gratuit', desc: 'Aucun frais caché, aucune commission. Le service est entièrement gratuit.' },
         { title: 'Réponse en 24h', desc: "Pas d'attente inutile. Vous recevez une offre réelle rapidement." },
         { title: 'Acheteurs vérifiés', desc: 'Tous nos acheteurs sont des concessionnaires et marchands sérieux.' },
-        { title: 'Région de Montréal', desc: 'On sert la grande région de Montréal et les environs.' },
+        { title: 'Région de Québec', desc: 'On sert toute la province du Québec.' },
       ],
     },
     cta: {
@@ -43,7 +43,7 @@ export const translations = {
         { title: 'Gratuit pour le vendeur', desc: 'Vous ne payez jamais rien.' },
         { title: 'Réponse rapide', desc: 'Chaque soumission reçoit une réponse en moins de 24 heures.' },
         { title: 'Transparence totale', desc: 'Aucune surprise, aucun frais caché.' },
-        { title: 'Ancré localement', desc: 'On connaît le marché de Montréal mieux que quiconque.' },
+        { title: 'Partout au Québec', desc: 'On couvre toute la province du Québec, de Montréal à Québec city.' },
       ],
       cta: 'Soumettre mon véhicule',
     },
