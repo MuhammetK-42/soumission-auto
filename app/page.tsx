@@ -87,7 +87,7 @@ export default function Home() {
         <p className="text-gray-400 text-center mb-14">Des vraies personnes, des vraies expériences.</p>
         <div className="grid sm:grid-cols-3 gap-6">
           {[
-            { nom: 'Jean-François L.', ville: 'Québec', texte: 'Vendu mon Honda Civic en moins de 18h ! Processus super simple et offre très honnête.', etoiles: 5 },
+            { nom: 'Antoine L.', ville: 'Québec', texte: 'Vendu mon Honda Civic en moins de 18h ! Processus super simple et offre très honnête.', etoiles: 5 },
             { nom: 'Samira B.', ville: 'Laval', texte: "J'avais essayé Marketplace pendant 3 semaines sans succès. Ici j'ai eu une offre le lendemain !", etoiles: 5 },
             { nom: 'Marco T.', ville: 'Longueuil', texte: 'Rapide, professionnel et sans prise de tête. Le meilleur moyen de vendre son auto.', etoiles: 5 },
           ].map((avis, i) => (
